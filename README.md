@@ -1,2 +1,2 @@
 # NK-Type-Fitness-Landscape
-These are various models I made as part of a rotation project. It is a toy NK-type fitness landscapes, which generates and evolves random DNA sequences. The simple models have no added epistasis, while later models include epistasis up to K=2. 
+These are various models I made as part of a rotation project. It is a toy NK-type fitness landscapes, which generates and evolves random DNA or protein sequences. The simple models have no added epistasis, while later models include epistasis up to K=2. The final results in the report are based on Fitness_Model_5. The models are intended as learning exercises in how to build an NK-type fitness landscape in Python 3.
